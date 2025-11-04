@@ -1,0 +1,17 @@
+{
+  "name": "Connection.cv - Premium Domain for Sale",
+  "short_name": "Connection.cv",
+  "description": "Acquire Connection.cv — Premium Domain for Sale",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a237e",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
+
